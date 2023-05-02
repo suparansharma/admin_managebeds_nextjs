@@ -36,7 +36,7 @@ const LeftSidebar = () => {
                     <ul aria-expanded="false" className="collapse second-level">
                       <li className={`sidebar-item`}>
                         
-                          <a href="#">
+                          <a href="modules/hr/employee/create">
                             <a className="sidebar-link">
                               <i className="mdi mdi-drawing" />
                               <span className="hide-menu">Add Employee</span>
