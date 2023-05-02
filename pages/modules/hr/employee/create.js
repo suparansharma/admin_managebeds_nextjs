@@ -8,8 +8,6 @@ import Select from "../../../../components/elements/Select";
 import Select2 from "../../../../components/elements/Select2";
 import TextInput from "../../../../components/elements/TextInput";
 
-
-
 export default function create() {
 
   return (

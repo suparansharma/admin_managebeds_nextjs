@@ -164,8 +164,7 @@ const LeftSidebar = () => {
                               <i className="mdi mdi-drawing" />
                               <span className="hide-menu">New Application</span>
                             </a>
-                          </a>
-                        
+                          </a>                     
                       </li>
                       <li className="sidebar-item">
                         
@@ -180,21 +179,9 @@ const LeftSidebar = () => {
                     </ul>
                   </li>
                   {/* End Leave Applications */}
-
-
-
                 </ul>
               </li>
-
               {/* End HRM */}
-
- 
-
-        
-
-
-
-
             </ul>
           </nav>
 
